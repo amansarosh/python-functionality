@@ -17,6 +17,7 @@ def max_num(num1, num2, num3):
     else:
         return num3
 
+
 print((max_num(34, 45, 56)))
 
 # "==" means equal
